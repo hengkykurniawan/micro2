@@ -10,4 +10,4 @@ kramdown:
   syntax_highlighter: rouge
 # Build setting
 markdown: kramdown
-theme: minima 
+theme: jekyll-theme-cayman 
